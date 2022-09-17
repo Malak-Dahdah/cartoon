@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index2.css">
+    <title>باتمان</title>
+</head>
+<body>
+    <section class="malak0">
+        <div>
+         <center>
+            <img src="image/1.jpg" >
+         <font color="orange">
+       <h1>فيلم باتمان </h1></font> </center>
+       <br><br>
+        </div>
+        </section>
+
+<section class="malak1">
+<div>
+    <div>
+    <p>     <h3>الحلقة الاولى</h3>     </p>
+    <video src="/videos/Batman_ Arkham Knight (The Movie).mp4"  width="400px" height="300px" controls poster="/image/m1.jpg">
+        
+    </video>
+    <br><br>
+        </div>
+<p>الحلقة الثانية</p>
+<video src="/videos/Batman_ Arkham Knight (The Movie).mp4"  width="400px" height="300px" controls poster="/image/m5.jpg"></video>
+        <br><br>
+</div>
+<div>
+    <p><h3>الحلقة الثالثة</h3></p>
+    <video src="/videos/Batman_ Arkham Knight (The Movie).mp4"  width="400px" height="300px" controls poster="/image/m8.jpg"></video>
+        <br><br>
+    </div>
+    <div>
+        <p><h3>الحلقةالرابعة</h3></p>
+        <video src="/videos/Batman_ Arkham Knight (The Movie).mp4"  width="400px" height="300px" controls poster="/image/m4.jpg"></video>
+        <br><br>
+        </div>
+        <div>
+            <p><h3>الحلقةالخامسة</h3></p>
+            <video src="/videos/Batman_ Arkham Knight (The Movie).mp4"  width="400px" height="300px" controls poster="/image/m5.jpg"></video>
+        <br><br>
+            </div>
+            <div>
+                <p><h3>الحلقةالسادسة</h3></p>
+                <video src="/videos/Batman_ Arkham Knight (The Movie).mp4"  width="400px" height="300px" controls poster="/image/m6.jpg"></video>
+        <br><br>
+                </div>
+                <div>
+                    <p> <h3>الحلقة السابعة</h3></p>
+                    <video src="/videos/Batman_ Arkham Knight (The Movie).mp4"  width="400px" height="300px" controls poster="/image/m7.jpg"></video>
+        <br><br>
+                    </div>
+                    <div>
+                        <p><h3>الحلقة الثامنة</h3></p>
+                        <video src="/videos/Batman_ Arkham Knight (The Movie).mp4"  width="400px" height="300px" controls poster="/image/m8.jpg"></video>
+        <br><br>
+                        </div>
+                        <div>
+                            <p><h3>الحلقة التاسعة</h3></p>
+                            <video src="/videos/Batman_ Arkham Knight (The Movie).mp4"  width="400px" height="300px" controls poster="/image/m1.jpg"></video>
+        <br><br>
+                            </div>
+                            <div>
+                                <p><h3>الحلقة العاشرة</h3></p>
+                                <video src="/videos/Batman_ Arkham Knight (The Movie).mp4"  width="400px" height="300px" controls poster="/image/m7.jpg" ></video>
+        <br><br>
+                                </div>
+                                
+
+
+</section>
+
+
+
+
+</body>
+</html>

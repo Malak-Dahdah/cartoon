@@ -1,0 +1,24 @@
+*{
+
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background: rgb(52, 52, 54);
+    }
+    .malak0 img{
+    
+        border-radius: 200px 200px;
+            border-style: solid;
+            
+            justify-content: center;
+            display: flex;
+            margin-top: 1%;
+            
+    }
+    .malak1{
+      text-align: center;
+    color: azure;
+
+    }
+    
